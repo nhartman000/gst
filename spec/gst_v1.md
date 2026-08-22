@@ -87,7 +87,7 @@ The relationship between these channels is part of the higher-order state-detect
 
 ## 5. Reserved `0,0` Placeholder Structure
 
-The GST awareness/state-detection paradigm includes an additional reserved placeholder structure represented as:
+The GST awareness/state-detection paradigm includes an additional reserved placeholder structure represented literally as:
 
 ```text
 0,0
@@ -164,7 +164,7 @@ A `.gst` document may be represented structurally as:
     "current": {}
   },
   "continuity": {
-    "placeholder": [0, 0]
+    "placeholder": "0,0"
   },
   "intent": null,
   "outcome_expectation": null,
