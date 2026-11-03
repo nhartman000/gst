@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "gst (MG8 family): Gestalt .gst file specifications"
+authors:
+  - given-names: Nicholas C.
+    family-names: Hartman
+    affiliation: American Milestone Inc
+repository-code: "https://github.com/nhartman000/gst"
+license: MIT
+keywords:
+  - deterministic AI
+  - MG8
+  - NYCH
+  - high-assurance AI
