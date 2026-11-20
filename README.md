@@ -86,3 +86,7 @@ This repository does not invent a universal mathematical encoding for intent or 
 ## Status
 
 GST is being formalized as the canonical state/context layer of MG8. The repository distinguishes established concepts from fields whose precise quantitative encoding remains an open versioned-specification task.
+
+## License
+
+Copyright (c) 2026 American Milestone Inc. All rights reserved. Original code and independently authored specifications are publicly viewable for evaluation only — see [LICENSE](LICENSE). Copies obtained earlier under the previous MIT license keep the rights that license granted.
